@@ -1,5 +1,9 @@
 # LinuxShell
 An implementation of some Linux shell commands 
+To run shell.cpp, open linux terminal and browse to the directory containing the .cpp file. Now, type
+g++ shell.cpp -o shell.out
+This will generate an executable file, now we need to run it
+./shell.out
 
 Problem Statement:
 You need to create a very primitive linux shell which should support the following commands:
